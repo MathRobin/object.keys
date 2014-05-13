@@ -2,7 +2,7 @@
 
 Polyfills for object.keys, available on bower.
 
-This method has been added to the ECMAScript 6 specification and may not be available in all JavaScript implementations yet. Have a look there for compat table : https://kangax.github.io/es5-compat-table/es6/#Object.prototype.keys
+This method has been added to the ECMAScript 6 specification and may not be available in all JavaScript implementations yet. Have a look there for compat table : http://kangax.github.io/compat-table/es5/#Object.keys
 
 ## Install
 
