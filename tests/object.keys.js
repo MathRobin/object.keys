@@ -4,6 +4,6 @@ describe('Polyfill : object.keys', function () {
     'use strict';
 
     it('should be defined', function () {
-        expect(Object.prototype.keys).toBeDefined();
+        expect(Object.keys).toBeDefined();
     });
 });
