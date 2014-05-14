@@ -34,6 +34,6 @@ module.exports = function (config) {
         logLevel         : config.LOG_INFO,
         browsers         : ['Chrome', 'Firefox'],
         autoWatch        : true,
-        singleRun        : false
+        singleRun        : true
     });
 };
